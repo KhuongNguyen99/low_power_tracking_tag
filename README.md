@@ -22,7 +22,7 @@ The tag is a CS reflector. Stations coordinate measurements and forward distance
 
 ## Documents
 
-- [Bill of materials](hardware/rechargeable_ble_tag_bom_tree.xlsx) — editable hierarchical BOM with supplier-link fields
+- [Bill of materials](hardware/BOM.md) — initial sourcing checklist with blank supplier-link fields
 - [System requirements](docs/requirements.md) — operating goals and prototype validation criteria
 
 ## Project status
